@@ -327,7 +327,7 @@ public class LoginController {
 
 
 	/**
-	 * 用户信息
+	 * 用户信息123
 	 *
 	 * @param sysUser
 	 * @param result
